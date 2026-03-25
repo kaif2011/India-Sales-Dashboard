@@ -76,4 +76,4 @@ To build an interactive dashboard that:
 
 ## 📸 Dashboard Preview
 
-![India Sales Dashboard]  
+![India Sales Dashboard](https://github.com/kaif2011/India-Sales-Dashboard/blob/main/India%20Sales%20Dashboard.png)
