@@ -20,6 +20,7 @@ The dataset used contains structured sales records across India, featuring metri
 
 ### 🔸 Business Problem:
 Many businesses struggle to track performance across multiple regions and product categories using raw data alone. For this project, the core challenge was identifying why the business fell 6% short of its 629K sales target. I built this dashboard to pinpoint revenue leakages and highlight high-growth regions like Maharashtra and Uttar Pradesh.
+
 ---
 
 ### 🔸 Goal of the Dashboard:
