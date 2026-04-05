@@ -66,7 +66,7 @@ The objective was to build an interactive dashboard that:
   Interactive filters for Year, Region, Manager, and Category to enable deep-dive analysis.
 ---
 
-### 🔸 Business Impact & Insights
+### 🔸 Business Impact & Insights:
 
 - Strategic Planning: Identified a 6% gap between actual sales (589.65K) and the target (629K), providing a clear starting point for performance reviews.
 
